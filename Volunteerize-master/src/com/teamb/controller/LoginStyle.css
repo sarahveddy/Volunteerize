@@ -1,0 +1,10 @@
+.root{
+    -fx-background-color: rgb(255, 0, 0);
+}
+#scenetitle{
+    -fx-font-size: 30px;
+    -fx-text-fill: rgb(0,103,69);;
+}
+.root .button{
+    -fx-alignment: center;
+}
